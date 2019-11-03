@@ -1,12 +1,16 @@
 import React from 'react';
+import AppBar from './nav/app-bar';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        	🥑
-      </header>
+    <div>
+        <script
+          src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js"
+          crossorigin
+        />
+      <AppBar></AppBar>
     </div>
   );
 }

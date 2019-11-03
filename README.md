@@ -9,7 +9,16 @@ tutorial to create a react app
     npx create-react-app seasonal-veggie-app
     cd seasonal-veggie-app
 - get styling:
-    npm install @material-ui/core
+    npm install react-bootstrap bootstrap
+    include import 'bootstrap/dist/css/bootstrap.min.css'; in App.js
+- get the cli:
+    npm install -g react-create
 - serve the app:
     npm start
 - start hacking on src/App.js!
+
+## basics 🍑
+how to use components in react
+
+- create component:
+    react-create component component-name
