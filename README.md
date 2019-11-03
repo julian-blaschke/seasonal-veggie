@@ -16,10 +16,10 @@ tutorial to create a react app
     `npx create-react-app seasonal-veggie-app`
     `cd seasonal-veggie-app`
 - get styling:
-    `npm install react-bootstrap bootstrap`
+    `npm install react-bootstrap bootstrap` [(documentation)](https://react-bootstrap.netlify.com/)
     include `import 'bootstrap/dist/css/bootstrap.min.css'; in App.js`
 - get the cli:
-    `npm install -g react-create`
+    `npm install -g react-create` [(documentation)](https://www.npmjs.com/package/react-create)
 - serve the app:
     `npm start`
 - start hacking on `./src/App.js!`
@@ -30,4 +30,4 @@ basic knowlege in reactjs
 - create component:
     `react-create component component-name`
 - get a routing module: 
-    `npm install react-router-dom`
+    `npm install react-router-dom` [(documentation)](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
