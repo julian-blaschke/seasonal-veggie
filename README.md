@@ -4,14 +4,14 @@ An app that shows which fruits and vegetables are currently in season.
 ## try this app! 🍍
 Take a look at this app and get some inspiration!
 
-- clone it from [here](https://github.com/julian-blaschke/seasonal-veggie.git)
+- clone it from [this repository](https://github.com/julian-blaschke/seasonal-veggie.git)
 - run:
     `npm install` in root directory 
 
 ## getting started with your own app 🍒
 tutorial to create a react app
 
-- download Nodejs from [here](https://nodejs.org/en/`)
+- download Nodejs from [nodejs.org](https://nodejs.org/en/`)
 - create an react app:
     `npx create-react-app seasonal-veggie-app`
     `cd seasonal-veggie-app`
