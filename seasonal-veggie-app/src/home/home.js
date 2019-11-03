@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
+import Container from 'react-bootstrap/Container'
 
 export default class home extends Component {
   render() {
     return (
-      <div className="home">
-        <h1>Seasonal in December: </h1>
-          <ul>
-            
-          </ul>
-      </div>
+      <Container>
+        
+        Seasonal in December
+      </Container>
     )
   }
 }
