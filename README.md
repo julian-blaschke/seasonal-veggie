@@ -5,8 +5,10 @@ An app that shows which fruits and vegetables are currently in season.
 Take a look at this app and get some inspiration!
 
 - clone it from [this repository](https://github.com/julian-blaschke/seasonal-veggie.git)
-- run:
+- install dependencies:
     `npm install` in root directory 
+- serve/start the app:
+    `npm start`
 
 ## getting started with your own app 🍒
 tutorial to create a react app
@@ -20,7 +22,7 @@ tutorial to create a react app
     include `import 'bootstrap/dist/css/bootstrap.min.css'; in App.js`
 - get the cli:
     `npm install -g react-create` [(documentation)](https://www.npmjs.com/package/react-create)
-- serve the app:
+- serve/start the app:
     `npm start`
 - start hacking on `./src/App.js!`
 
