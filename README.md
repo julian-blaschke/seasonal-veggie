@@ -1,2 +1,2 @@
 # seasonal-veggie
-example project - showing basic elements of html/javascript/css/sql
+An app that shows which fruits and vegetables are currently in season.
