@@ -15,6 +15,7 @@ import Footer from './nav/footer'
 /** setting up the root for the app
  *      the top bar and the bottom footer are put in here
  *      `exact` stands for `default route`
+ *      `switch` manages all routing
  *  **/
 const root = (
     <Router>
@@ -29,7 +30,7 @@ const root = (
         </div>
         <Footer></Footer>
     </Router>
-    )
+)
 
 ReactDOM.render(root, document.getElementById('root'))
 
